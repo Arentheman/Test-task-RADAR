@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/АРЕНАЙК/Desktop/Тестовое задание/CSVTESTER/CSVTests/third_party/googletest/googlemock/CMakeLists.txt
+  gtest-all.cc
+  gmock-all.cc
+  Создание кода...
+  gmock.vcxproj -> C:\Users\АРЕНАЙК\Desktop\Тестовое задание\build\lib\Debug\gmock.lib

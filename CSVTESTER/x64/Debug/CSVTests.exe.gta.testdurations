@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\АРЕНАЙК\Desktop\Тестовое задание\CSVTESTER\x64\Debug\CSVTests.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="FormulaEvaluatorTest.SimpleAddition" Duration="1" />
+    <TestDuration Test="FormulaEvaluatorTest.NegativeNumbers" Duration="1" />
+    <TestDuration Test="FormulaEvaluatorTest.DivisionByZero" Duration="1" />
+    <TestDuration Test="FormulaEvaluatorTest.InvalidCellReference" Duration="2" />
+  </TestDurations>
+</GtaTestDurations>
