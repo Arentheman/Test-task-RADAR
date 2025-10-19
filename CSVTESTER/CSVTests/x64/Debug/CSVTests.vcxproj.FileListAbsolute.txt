@@ -1,2 +1,0 @@
-C:\Users\АРЕНАЙК\Desktop\Temp\CSVTESTER\CSVTests\x64\Debug\CSVTests.vcxproj.Up2Date
-C:\Users\АРЕНАЙК\Desktop\Тестовое задание\CSVTESTER\CSVTests\x64\Debug\CSVTests.vcxproj.Up2Date

@@ -1,12 +1,12 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/Users/\u0410\u0420\u0415\u041d\u0410\u0419\u041a/Desktop/\u0422\u0435\u0441\u0442\u043e\u0432\u043e\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u0435/build/cmake_install.cmake",
-		"C:/Users/\u0410\u0420\u0415\u041d\u0410\u0419\u041a/Desktop/\u0422\u0435\u0441\u0442\u043e\u0432\u043e\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u0435/build/CSVTests/cmake_install.cmake",
-		"C:/Users/\u0410\u0420\u0415\u041d\u0410\u0419\u041a/Desktop/\u0422\u0435\u0441\u0442\u043e\u0432\u043e\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u0435/build/CSVTests/third_party/googletest/cmake_install.cmake",
-		"C:/Users/\u0410\u0420\u0415\u041d\u0410\u0419\u041a/Desktop/\u0422\u0435\u0441\u0442\u043e\u0432\u043e\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u0435/build/CSVTests/third_party/googletest/googlemock/cmake_install.cmake",
-		"C:/Users/\u0410\u0420\u0415\u041d\u0410\u0419\u041a/Desktop/\u0422\u0435\u0441\u0442\u043e\u0432\u043e\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u0435/build/CSVTests/third_party/googletest/googletest/cmake_install.cmake",
-		"C:/Users/\u0410\u0420\u0415\u041d\u0410\u0419\u041a/Desktop/\u0422\u0435\u0441\u0442\u043e\u0432\u043e\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u0435/build/CSVTESTER/cmake_install.cmake"
+		"C:/Users/\u0410\u0420\u0415\u041d\u0410\u0419\u041a/Desktop/TestTask/build/cmake_install.cmake",
+		"C:/Users/\u0410\u0420\u0415\u041d\u0410\u0419\u041a/Desktop/TestTask/build/CSVTESTER/cmake_install.cmake",
+		"C:/Users/\u0410\u0420\u0415\u041d\u0410\u0419\u041a/Desktop/TestTask/build/CSVTests/cmake_install.cmake",
+		"C:/Users/\u0410\u0420\u0415\u041d\u0410\u0419\u041a/Desktop/TestTask/build/CSVTests/third_party/googletest/cmake_install.cmake",
+		"C:/Users/\u0410\u0420\u0415\u041d\u0410\u0419\u041a/Desktop/TestTask/build/CSVTests/third_party/googletest/googlemock/cmake_install.cmake",
+		"C:/Users/\u0410\u0420\u0415\u041d\u0410\u0419\u041a/Desktop/TestTask/build/CSVTests/third_party/googletest/googletest/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
