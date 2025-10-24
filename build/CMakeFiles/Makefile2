@@ -260,8 +260,8 @@ CSVTESTER/CMakeFiles/CSVTESTER.dir/clean:
 
 # All Build rule for target.
 CSVTests/CMakeFiles/CSVTests.dir/all: CSVTESTER/CMakeFiles/CSVReaderLib.dir/all
-CSVTests/CMakeFiles/CSVTests.dir/all: CSVTests/third_party/googletest/googletest/CMakeFiles/gtest_main.dir/all
 CSVTests/CMakeFiles/CSVTests.dir/all: CSVTests/third_party/googletest/googletest/CMakeFiles/gtest.dir/all
+CSVTests/CMakeFiles/CSVTests.dir/all: CSVTests/third_party/googletest/googletest/CMakeFiles/gtest_main.dir/all
 	$(MAKE) $(MAKESILENT) -f CSVTests\CMakeFiles\CSVTests.dir\build.make CSVTests/CMakeFiles/CSVTests.dir/depend
 	$(MAKE) $(MAKESILENT) -f CSVTests\CMakeFiles\CSVTests.dir\build.make CSVTests/CMakeFiles/CSVTests.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\АРЕНАЙК\Desktop\TestTask\build\CMakeFiles --progress-num=5,6 "Built target CSVTests"

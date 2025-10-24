@@ -94,11 +94,11 @@ string evaluate(const string& formula, const CSVTable& table, set<string>& visit
 int main(int argc, char* argv[]) {
     setlocale(LC_ALL, "ru");
     if (argc < 2) {
-        static const char* fakeArgv[] = { "csvreader.exe", "C:\\Users\\АРЕНАЙК\\Desktop\\Тестовое задание\\CSVTESTER\\x64\\Debug\\тест.csv" };
+        /*static const char* fakeArgv[] = { "csvreader.exe", "C:\\Users\\АРЕНАЙК\\Desktop\\Тестовое задание\\CSVTESTER\\x64\\Debug\\тест.csv" };
         argv = const_cast<char**>(fakeArgv);
-        argc = 2;
-        //cerr << "Usage: " << argv[0] << " file.csv" << endl;
-        //return 1;
+        argc = 2;*/
+        cerr << "Usage: " << argv[0] << " file.csv" << endl;
+        return 1;
     }
 
     CSVTable table;
